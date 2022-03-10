@@ -14,7 +14,8 @@
     "react-native": "0.67.3",
     "expo": ">=44.0.0-0 <45.0.0",
     "expo-gl-cpp": "~11.1.0",
-    "expo-gl": "~11.1.1"
+    "expo-gl": "~11.1.1",
+    "expo-camera": "~12.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
